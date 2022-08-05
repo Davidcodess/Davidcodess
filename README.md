@@ -1,6 +1,6 @@
 - 👋 Hi, I’m David!
 - 👀 I’m interested in Web Development primarily in the frontend.
-- 🌱 I’m currently learning Sass and Javascript!
+- 🌱 I’m currently Javascript!
 - 💞️ I’m looking to collarate whenever possible to continue developm myself
 - 📫 How to reach via email : Dmjohnson844#gmail.com
 
