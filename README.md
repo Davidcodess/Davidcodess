@@ -1,8 +1,6 @@
 - 👋 Hi, I’m David!
-- 👀 I’m interested in Web Development primarily in the frontend.
-- 🌱 I’m currently Javascript!
-- 💞️ I’m looking to collarate whenever possible to continue developm myself
-- 📫 How to reach via email : Dmjohnson844#gmail.com
+Passionate and hardworking Frontend Developer dedicated to building and optimizing user-focused websites for customers with various business objectives. I'm a life long learner focused on becoming thr best version of me! 
+Feel free to reach out to me via email at Dmjohnson844@gmail.com
 
 <!---
 Davidcodess/Davidcodess is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
